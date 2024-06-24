@@ -1,0 +1,1834 @@
+Render Developer
+ віддалено
+About Us:
+
+Farom Studio is a dynamic and innovative game development studio committed to creating engaging and immersive gaming experiences.
+
+We are seeking a passionate Render Developer to join our team.
+
+Job Description:
+
+As a Render Developer at Farom Studio, you will play a key role in developing and optimizing rendering techniques that bring our visual concepts to life.
+
+You will work on enhancing the visual fidelity and performance of our products, collaborating closely with artists, engineers, and designers to create state-of-the-art rendering pipelines.
+
+Key Responsibilities:
+
+Develop and optimize rendering systems for real-time and offline applications.
+
+Create shaders, lighting models, and post-processing effects to achieve high-quality visuals.
+
+Implement and maintain rendering features and techniques, including global illumination, reflections, and shadowing.
+
+Collaborate with technical artists and other developers to troubleshoot and resolve rendering issues.
+
+Optimize rendering performance and memory usage across various platforms.
+
+Research and integrate the latest advancements in rendering technology to keep our products at the cutting edge.
+
+Develop tools and workflows to enhance the rendering pipeline and support production needs.
+
+Qualifications:
+
+Strong experience in rendering development, with a portfolio or demos showcasing your work in real-time or offline rendering.
+
+Proficiency in C++ and GPU programming languages (e.g., HLSL, GLSL, Metal).
+
+In-depth understanding of modern rendering techniques and graphics APIs (e.g., DirectX, Vulkan, OpenGL).
+
+Experience with physically-based rendering (PBR), shading, and lighting models.
+
+Familiarity with game engines (e.g., Unreal Engine, Unity) and their rendering systems is a plus.
+
+Strong debugging and optimization skills for rendering performance.
+
+Ability to work collaboratively in a team environment and communicate complex technical concepts effectively.
+
+A passion for creating visually compelling graphics and pushing the boundaries of what’s possible.
+
+What We Offer:
+
+A dynamic and creative work environment within a leading tech company.
+
+Opportunities for professional growth and career advancement.
+
+Competitive salary and comprehensive benefits package.
+
+Access to cutting-edge technology and tools.
+
+The chance to work on high-impact projects that define the future of visual experiences.
+
+C++ Developer
+ Київ, віддалено
+Volmi — A Virtuos Studio is a part of the global game development company Virtuos, specializing in creating art for games. We cooperate with the gaming industry’s leaders, participate in creating world-class projects and continue to grow our talented team.
+Join our team of like-minded people passionate about a common goal and love for games as a C++ Developer to work on an exciting world-famous project!
+
+Responsibilities
+
+Develop and maintain advanced game features in C++, ensuring high performance and a great user experience;
+Collaborate with the design and art teams to bring new game features and concepts to life;
+Optimize game performance for mobile devices, ensuring smooth gameplay across a variety of devices and platforms;
+Implement and maintain network code for multiplayer features, ensuring reliable and fast game sessions;
+Work closely with QA to identify, fix, and prevent issues, maintaining high-quality standards for the game;
+Participate in code reviews and contribute to the continuous improvement of development practices;
+Stay updated on the latest industry trends in mobile gaming and incorporate new technologies as appropriate.
+Qualifications
+
+Minimum of 4 years of experience in C++ development, with a strong portfolio of shipped games;
+Profound knowledge of mobile game development and performance optimization;
+Experience with game engines, preferably Unity or Unreal Engine;
+Strong understanding of network programming for multiplayer games;
+Excellent problem-solving skills and ability to work under tight deadlines;
+Passion for games and creating fun, engaging user experiences;
+Excellent teamwork skills, with the ability to collaborate effectively with cross-functional teams;
+Good communication skills, fluent in English.
+Will Be a Plus
+
+Experience with game optimization techniques;
+Experience of working with Custom C++ engines (or Godot, Defold).
+We offer:
+
+Career and professional growth;
+Flexible work schedule, office or remote work;
+20 working days of paid vacation and 10 paid sick days;
+Team building, and other fun activities.
+Let’s make games better together!
+
+Senior Robotics Engineer; ID 91456
+ Київ, Харків, Львів, Дніпро, Одеса, Вінниця, Івано-Франківськ, Луцьк, Полтава, Рівне, Тернопіль, Ужгород, Хмельницький, Чернівці
+ПРО НАС:
+SoftServe — це провідна ІТ-компанія, що займається консалтингом та надає послуги у сфері цифрових технологій. Ми забезпечуємо інноваційність, якість і швидкість, яких очікують наші клієнти та їх користувачі.
+
+SoftServe Robotics Group продовжує розвиватись та шукає талановитих людей, які приєднаються до нашої команди. У нас більше 30 інженерів-робототехніків в Україні та Польщі: Arсhitect, бізнес-аналітики, back-end і front-end інженери та QC інженери. Але нам не вистачає тебе!
+
+ЯКЩО ТИ:
+знаєшся на принципах робототехніки, систем керування та алгоритмів;
+працюєш з C++, Python, та знаєш ROS (операційна система для роботів);
+володієш інструментами моделювання робототехніки: Isaac Sim, Gazebo, тощо;
+маєш досвід тестування рішень в симуляції та тестування моделей оптимізації в Matlab;
+використовуєш для роботи Bayesian/Kalman та LiDAR, IMU, Visual, Odometry, Radar, GPS, SLAM;
+маєш ступінь у галузі робототехніки, комп’ютерних наук, елекротехніки або суміжних галузях;
+вільно спілкуєшся англійською;
+маєш практичний досвід або зацікавленість у більшості з наступних областей: обчислення в реальному часі, силова електроніка, проектування електромеханічної системи, динамічне моделювання, тактильне відчуття, низькорівневе керування двигуном (теорія керування, оцінка стану), керування в режимі реального часу мульти- DOF роботи (буде перевагою);
+маєш ІоТ бекграунд, досвід розробки для ARM (STM32 та ін.), RTOS, знаєш будь-які програмовані логічні засоби керування (PLC), SCADA (буде перевагою);
+знаєшся на проведенні технічних пре-сейлз активностей (презентації, майстер-класи тощо), маєш навички презентації для керівників С-рівня (буде перевагою).
+І ТИ ХОЧЕШ:
+проєктувати та розробляти рішення для різних типів роботів (мобільних роботів, роботизованих рук, дронів);
+створювати швидкі прототипи;
+інтегрувати роботів із хмарними службами за допомогою AWS Robomaker;
+брати участь у дослідженнях останніх тенденцій і сучасних підходів у сфері робототехніки.
+РАЗОМ МИ БУДЕМО:
+отримувати сертифікати з найсучасніших технологій (Google, AWS та інші);
+вчитися у досвідчених спеціалістів, готових поділитися своїми знаннями;
+збільшувати свій досвід, приєднавшись до програми наставництва;
+допомагати нашим клієнтам розвивати бізнес від стартапів до підприємств і компаній зі списку Fortune 500;
+просувати твої індивідуальні ініціативи — ми завжди відкриті для них, просто приходь та ділися своїми ідеями!;
+впливати на глобальний успіх компанії та мати визнання за програмою Customer Hero!
+SoftServe — компанія рівних можливостей. Ми відкриті до працевлаштування усіх кваліфікованих кандидатів та кандидаток, незалежно від раси, кольору шкіри, віросповідання, віку, статі, національності, інвалідності, сексуальної орієнтації, гендерної ідентичності та самовираження, ветеранського статусу та інших захищених ознак, відповідно до чинного законодавства. Ставай частиною SoftServe та роби те, що драйвить!
+
+C++ Developer
+ за кордоном, віддалено
+About the position: We are seeking a skilled C++ developer with for integrating gaming devices into Windows App. The primary responsibility will be to ensure compatibility between gaming peripherals and our gaming platform for device management, optimizing their performance, and ensuring efficient integration, analyze protocol and use it for the integration. A deep understanding of embedded systems and device reverse engineering processes is essential for this role to successfully accomplish the assigned tasks.
+
+Key Responsibilities:
+
+Integrating devices to an application
+Application feature development
+Communicating with engineers and developers at factories in China.
+Creating accompanying documentation related to your field of activity.
+Proposals for process improvement within one’s area of responsibility.
+Requirements:
+
+4+ years of experience in C / C ++ programming
+Strong knowledge and experience working in system/platform dependent/ low-level applications programming, network protocols.
+Sufficient knowledge of QT, WinAPI (and/or other Windows API’s)
+Experience in application debugging, network traffic analysis, reverse engineering.
+Proficiency in understanding and working with existing code.
+Version control using Git.
+Task management using Jira.
+Nice to have:
+
+4+ years of experience in embedded software development
+Knowledge of QML, REST API.
+
+C++ Developer
+ Київ
+Requirements:
+
+2+ years of experience in C/C++ development;
+Excellent knowledge of C++ standard library;
+Hands-on experience with API development;
+Experience in developing multithreaded client-server applications, interaction with DBMS;
+Deep understanding of networking (TCP/UDP, OSI layers), asynchronous networking;
+Ability to quickly understand existing code and adjust to new environments;
+Hands-on experience with Standard Library data structures and algorithms;
+Degree in Computer Science or related field;
+Organization of software development for implementation of code for HW;
+Experience in using complex system architecture patterns and building microservice ecosystems;
+Practical experience with MySql, PostgreSQL, SQL Server, Redis.
+Will be a plus:
+
+Experience with single-board computers, Raspberry;
+Knowledge of Python, C#;
+Responsibilities:
+
+Creation of software for electronic devices;
+Software debugging;
+Software version control;
+Interaction with engineers to achieve project goals;
+We offer:
+
+Full Software development cycle from software requirements preparation to ready system release;
+Opportunity to work with the new technologies and corporate level platforms;
+Corporate English courses;
+Flexible working schedule;
+Comfortable office near metro station.
+
+Middle/Senior С++(Qt) Developer
+ Київ
+Ajax — це компанія повного циклу від генерації ідей та R&D до масового виробництва та продажу. Ми робимо все: виробляємо фізичні пристрої (система включає багато різних датчиків і хаб), пишемо для них прошивку, розробляємо серверну частину і випускаємо мобільні додатки. Вся команда знаходиться в одному офісі, всі технічні та продуктові рішення приймаються локально.
+
+Ми шукаємо розумного, досвідченого, технічно грамотного Senior C++/Qt Developer.
+
+Що треба знати та вміти:
+
+C++14/17 5+ років
+Qt/QML 1+ років
+Глибоко розуміти фронт-енд та бек-енд розробку
+Глибоко розуміти OOP
+Добре розуміти принципи роботи процесів, потоків та асинхронної обробки.
+Вміти та писати модульні/інтеграційні тести (культура застосування TDD буде плюсом).
+Git.
+Плюсом буде досвід з:Python, PySide/PyQt, grpc/web sockets, Video codecs/playback, OpenGL/WebGL, shaders, Jenkins, Boost ASIO, Memory leaks fixing experience, Multithreading problems fixing experience, Qt bugs fixing experience, Qt building experience
+Основні задачі:
+
+робота з інтеграції відео в додаток
+підтримка джуніор девелоперів в відео стрімі
+підтримка хорошой технічної культури з тестами і CD
+провідна участь у розробці та покращенні архітектури
+написання коду на рівні Senior Developer
+пошук і фікс критичних багів на рівні QT
+Ми пропонуємо:
+
+Класну різнобічну команду професіоналів із палаючими очима.
+Гарну зарплатню.
+Пряму віддачу від зусиль, видимий результат своєї праці.
+Багато свободи у прийнятті рішень та розвитку системи.
+Корпоративну культуру з урахуванням здорового глузду.
+Оплату навчання та участі у конференціях.
+
+Senior С++ Developer
+ Київ, Львів
+Ajax Systems — це міжнародна технологічна компанія, найбільший в Європі розробник і виробник систем безпеки Ajax із можливостями розумного дому. Це ціла екосистема зі 135 пристроїв, мобільних і десктопних застосунків, серверної інфраструктури. Кожного року ми демонструємо кратне зростання як у чисельності команди, так і в кількості користувачів у всьому світі. Наразі в компанії більше 3 000 працівників. А датчики Ajax охороняють 2,5 млн користувачів у більш ніж 169 країнах світу.
+
+System Department робить пристрої розумними, перетворюючи їх на повноцінний IoT. Вони створили й розвивають OS Malevich (модульна RTOS для різних апаратних платформ) і хмарний сервіс Ajax Cloud (Java 20 / Kotlin, AWS, Akka, NATS, Kafka, Mongo, MySQL). Для керування, обслуговування та моніторингу системи користувачами, інсталяторами й інженерами охоронних компаній розроблені додатки для iOS (Objective-C, Swift), Android (Java, Kotlin), Windows/macOS (Python / C++, QT, QML).
+
+Що потрібно знати та вміти:
+— Досвід C++ 5 років (C++11/C++14)
+— Хороший досвід роботи з boost, зокрема boost.asio
+— Добре розуміти принципи роботи процесів, потоків та асинхронної обробки
+— Вміти та писати модульні/інтеграційні тести (культура застосування TDD буде плюсом)
+— Вільне володіння git, cmake, gdb
+— Значення linux/posix-сумісних систем, знання bash, розуміння принципів роботи ядра linux
+— Практичний досвід проектування та розробки великих систем
+
+Що буде плюсом:
+— Досвід роботи з embedded системами та системами з обмеженими обчислювальними ресурсами
+— Досвід роботи з потоковим відео
+— Експертний рівень у роботі з протоколами передачі сигналів та потокової передачі даних (RTSP)
+— Детальне знання та розуміння протоколу та стеку RTP/RTCP
+— Знання та розуміння внутрішнього пристрою форматів відеокодеків HEVC, H.264
+— Досвід роботи з GRPC/web sockets, WebRTC, GST, LiveMedia, Video codecs/playback
+— Досвід роботи з форматами упаковки мультимедіа, такими як HLS, DASH, а також із шифруванням
+— Досвід роботи з критично важливими відео додатками та стандартами
+— Вільне орієнтування в опенсорсних бібліотеках, від ffmpeg до OpenCV
+— Практичний досвід використання та інтеграції з відповідними технологіями з відкритим вихідним кодом
+— Досвід реалізації конвеєра обробки відео для мультимедійних програм (відтворення, запис, перекодування, потокова передача)
+
+Основні завдання:
+— Підтримка хорошої технічної культури з тестами та CD
+— Спільно з командою продовжувати роботу над новим продуктом із використанням відеокамер для завдань безпеки у поєднанні з традиційними охоронними датчиками.
+— Розвивати інженерні практики та підвищувати якість коду
+— Брати участь в обговоренні нової функціональності продукту та відповідати за розвиток продукту як частини системи
+
+
+Пропонуємо:
+
+— Можливість пропонувати та реалізовувати власні ідеї, які мають вплив на продукт і виробництво;
+
+— Роботу у вмотивованій команді та zero bullshit culture;
+
+— Конкурентну заробітну плату;
+
+— Медичне страхування;
+
+— Корпоративну англійську мову;
+
+— Компенсацію профільного навчання;
+
+— Можливість взяти участь у проєкті бета-тесту систем безпеки Ajax — отримання та тестування нових гаджетів до їх релізу.
+
+Ajax Systems — це українська історія успіху, місце неймовірної сили та енергії.
+Долучайтеся, щоб зробити Made in Ukraine синонімом надійності.
+
+
+
+C++ Software Engineer
+ Київ, за кордоном, віддалено
+Project: App for analysing camera data in real-time to interpret and predict pedestrian, passenger, and vehicle behaviour to better inform automated decision-making engines for driver alerts and vehicle motion
+
+Responsibilities:
+— Develop and optimize software using modern C++ for various projects.
+— Work with C++20, utilizing STL and OpenCV
+— Apply concepts such as SFINAE, RAII, zero-cost abstraction, and dependency injection
+— Develop software for embedded systems and microcontrollers
+— Collaborate with the team to integrate and implement machine learnig solutions
+— Use inference libraries such as TensorRT and work with ONNX model formats
+— Contribute to the ecosystem using tools like GTest, OpenCV, CUDA, GitHub Actions, clang-format, gcc, cmake, and Python
+
+Requirements:
+— At least 5 years of experience working with modern C++
+— Proficiency in C++20, STL, and OpenCV
+—Experience in embedded systems development
+— Familiarity with concepts such as SFINAE, RAII, zero-cost abstraction, and dependency injection
+— Knowledge of developing software for embedded systems and microcontrollers.
+— Experience with inference libraries such as TensorRT and familiarity with ONNX model formats
+— Experience with GTest, OpenCV, CUDA, GitHub Actions, clang-format, gcc, cmake, and Python
+— Nice to have: Experience with Ambarella and Conan
+
+We offer:
+— Providing freedom and initiative for decision-making
+— Courses and education
+— English courses twice a week
+— Strong corporate management and transparent strategy
+— Unlimited area for self-development and personal growth
+— A set of benefits like video games, flexible working hours and high salary
+— Regular team buildings
+
+Senior C++ Engineer
+ Київ
+BIScience is an Internet technology company pioneering the world of digital media and audience intelligence with innovative technologies, harnessing user-centric data at scale to bring new insights into the online marketing industry and audience analytics. Our product suite helps online marketers, media buyers, brand managers, sales managers, and business analysts benchmark marketing and advertising effectiveness, perform digital behavioral journey analysis, get an outlook on competitive intelligence, purchase intent, brand engagement, eCommerce activities, and analyze targeted and behavior-based online information.
+
+Position
+BIScience is looking for a seasoned Senior C++ Engineer to work with a hyper-growth consumer panel product with over 5 million users all over the world,represented in all main platforms: Web, Windows, macOS, Android, and iOS. As a C++ Engineer, you’ll contribute to the development of desktop applications for Windows. Your role is to lead the development, design architecture for new apps, keep UI up to speed with modern trends, and improve product reliability. You will work closely with a Product Manager, UI/UX design team, Backend,
+and QA Engineers — all Ukraine-based.
+
+Stack
+
+C/C++
+Qt
+Networking protocols
+
+What will you do
+
+Spearhead the development of Windows desktop products
+Conduct Proof of Concepts (PoCs) to evaluate innovative ideas
+Enhance the visual and functional aspects of our products
+Requirements
+
+5+ years of experience with C/C++ (C++ 11/C++ 17)
+In-depth experience with Desktop Windows applications/services
+Advanced expertise in modern UI development (Qt framework, Figma)
+Solid understanding of network protocols (HTTP, VPN)
+CMake
+SQL
+Solid experience with agile development frameworks,
+Upper-Intermediate English
+What’s for you
+
+High autonomy: to implement solutions, offer ideas, and drive developmentpractices,
+Product impact: have a say and influence decisions,
+Supportive atmosphere: we care about our people
+Join us and become part of a team that values innovation, collaboration, and continuous learning. Apply now and take the next step in your career with
+
+
+Senior C++ Generalist Developer
+ віддалено
+Drivers of change, it’s your time to pave new ways. Intellias, a leading software provider in the automotive industry, invites you to shape the future of driving. Join the team and co-create digital products for the world’s top-tier brands.
+
+What project we have for you
+In cooperation with the leading global provider of maps, traffic and places data enabling navigation, location-based services and mobile advertising around the world, Intellias is looking for skilled Software Development Engineer, to take part in development of In-car navigation product.
+
+What you will do
+Participate in technical discussions to find a right architecture/design solution
+Support of existing product on pre-production and post-production phase
+Develop new features
+Provide design, implementation and complete testing of new features in supported programming languages
+Write a highly optimized code
+Design interfaces and implementation to support reusability, testability and modularity
+Integrate our solution with other parts of Navigation platform
+Ensure the features are integrated on the target platforms in a way that meets the expectations of the customer
+What you need for this
+5+ years of commercial experience in C++ (main version is C++ 14 with partial usage of C++ 17 features)
+Strong understanding of OOP concepts and design patterns
+Software architecture design skills
+Experience developing Multi-threaded software components
+Intermediate or higher level of English, good communication skills
+Excellent analytical, algorithmic and optimization skills
+Good knowledge of OOAD, architecture and design patterns, API design principles
+Nice to have:
+
+Python and CMake knowledge
+Java knowledge and experience
+What it’s like to work at Intellias
+At Intellias, where technology takes center stage, people always come before processes. We’re dedicated to cultivating a tech-savvy environment that empowers individuals to unlock their true potential and achieve extraordinary results. Our customized benefits not only prioritize your well-being but also charge your professional growth, making this opportunity an ideal match for tech enthusiasts like you.
+
+At Intellias, we are committed to being an equal opportunity employer, fostering equity, diversity, and inclusion. We welcome and celebrate the differences of all qualified applicants. Join Intellias for a career where your unique perspectives are not only valued but crucial to our success.
+
+
+Senior Core/Engine Programmer
+ Київ, Франкфурт-на-Майні (Німеччина), віддалено
+ABOUT THE JOB
+The Senior Core/Engine Programmer will be responsible for designing and developing core engine systems for OTG (Off The Grid), an all-new AAA Battle Royale 2.0 third-person shooter, due for release on PlayStation®5, Xbox® Series X|S and PC. They will work closely with other programmers, artists, and designers to ensure the game is performant, scalable, and feature-rich. The ideal candidate will have a deep understanding of game engine architecture and be able to design and implement systems that meet our technical and gameplay requirements.
+
+RESPONSIBILITIES
+As a Senior Core/Engine Programmer, you will:
+
+Get deep into the internals of the Unreal Engine 5 to make it work with our game.
+Optimize game and engine performance and scalability for current and future hardware.
+Debug and solve complex technical problems related to the engine.
+Keep up-to-date with the latest industry trends and technologies in game engine development.
+Provide technical guidance and mentorship to junior programmers.
+REQUIREMENTS
+At least 5 years of experience in game engine programming, with a focus on Unreal Engine.
+Strong understanding of game engine architecture, including rendering, physics, AI, and networking.
+Proficiency in C++ and other relevant programming languages.
+Ability to work collaboratively in a team environment.
+Strong problem-solving and debugging skills.
+Strong understanding of game design principles and gameplay mechanics.
+Experience with multiplayer game development.
+Verbal and written English communication skills.
+Knowledge of other game engines and development platforms.
+GUNZILLA OFFERS
+Flexible Working & Work from Home
+Health Insurance
+Revenue-Based Bonuses
+English / German Courses
+25 Annual Paid Vacation & Sick Days
+Public Transportation
+Relocation & Accommodation Support
+Office Perks & Gym Membership
+
+Senior C++ Developer
+ віддалено
+Numerical Technologies is a leading provider of custom software solutions and services specializing in risk, limits, and regulatory capital. Right now, we are looking for a C++ Developer to join our team.
+
+What will you be doing?
+You will be joining an international team of experienced developers dedicated to providing best-in-class development and cloud management services to our clients, stakeholders, and partners.
+You will help us develop new software features, support and maintain the existing ones. You will be writing scalable and fault-tolerant code, debugging programs, and integrating applications with third-party web services. You will provide hands-on expertise to increase the availability, reliability, and efficiency of our products. You will work closely with the client and product manager to understand the system’s functional and non-functional requirements, and contribute to code quality through unit testing, integration testing, code review, and system design using C++ to build robust software that aligns with the client’s business needs.
+
+What are we looking for?
+◼ A solid foundation in C++ programming and familiarity with library architecture design.
+◼ 3+ years of experience in implementing C++ solutions within financial institutions or fintech companies.
+◼ Strong experience using Git, Jenkins and similar software development tools.
+◼ Proficiency in integrating libraries into production IT environments, including data pipelines and UAT process.
+
+What additional skills will help you stand out?
+◼ Strong knowledge in applied math and statistics, particularly in stochastic processes and advanced statistics.
+◼ Previous involvement in developing libraries for front office pricing models and Monte-Carlo simulation models.
+
+We offer:
+◼ Competitive compensation depending on experience and skills.
+◼ Regular assessments and salary reviews.
+◼ Paid personal days.
+◼ Health insurance.
+◼ English/Portuguese/Polish/Spanish classes.
+◼ Flexible working schedule.
+◼ Friendly team and enjoyable working environment.
+
+Team Lead C++ Developer (Poland)
+ Poland
+Company description:
+
+We are an international group of over 400 employees and collaborators.
+
+We create reliable and intuitive software solutions offered as Software as a Service (SaaS). Our products are sold in more than 150 countries and are translated into over 15 languages worldwide.
+
+Visit our website: www.avanquestgroup.com
+
+We are :
+
+a multicultural collaborative group.
+an ambitious company in rapid development.
+a place where each Talent has its place to contribute its know-how and have a real impact on large-scale projects.
+an environment where productive initiatives are always recognized at their true value
+Job details :
+
+As a Team Lead, you will play a crucial role in guiding and supporting the team towards achieving project objectives, fostering innovation and continuous improvement.
+
+Qualifications:
+
+Over 7 years of experience working with C++ and building windows-based software in utilities category;
+Hands-on experience with front-end frameworks such as Qt or Sciter;
+In-depth knowledge of software architecture and design patterns, along with principles of good software development;
+Proficiency in using Git and understanding Git workflow;
+Knowledge of automated testing tools and frameworks is a plus;
+Good knowledge of DevOps methodologies and the software development lifecycle;
+Practical experience in writing build scripts;
+Proficiency in API documentation tools, such as Swagger;
+Good knowledge of SQL and NoSQL database management systems (e.g., PostgreSQL, T-SQL, MongoDB);
+Excellent problem-solving abilities, with a methodical approach to diagnosing and resolving technical issues;
+Nice to have understanding of the .NET ecosystem, C# and .NET Frameworks;
+Fluency in English.
+Responsibilities:
+
+Oversee the day-to-day activities of the development team, assigning tasks and responsibilities to ensure efficient workflow;
+Help analyze and resolving technical problems, and implement new features in existing products;
+Coordinate the development and maintenance of Windows-based software applications, including frontend and backend components for PC cleaner and driver-related utilities products;
+Filter and decompose requirements into technical tasks, providing the information necessary for development;
+Oversee the development lifecycle of the software, from initial planning through to final deployment and maintenance;
+Empower junior team members to develop their skills in relevant technologies and practices;
+Serve as a go-to person for expert opinions and technical guidance within the team;
+Establish a robust code review process to improve code quality and ensure adherence to coding standards;
+Ensure detailed documentation of code, design, and test cases to maintain a clear and comprehensive project record;
+Collaborate with cross-functional teams, including product manager, UX/UI designers, and QA engineers, to accomplish sprint goals;
+Work closely with DevOps and infrastructure teams for deployment and monitoring of applications;
+Follow and promote Agile methodology, actively participating in sprint planning, sprint reviews, and daily stand-up meetings;
+Demonstrate strong communication skills, to effectively interact with team members and stakeholders.
+What we offer:
+
+A fair compensation for your value;
+Competitive corporate benefits;
+Access to life and health insurance from day one;
+Bonus program for all, paid vacation leave, and more;
+An open and supportive environment as well as a modern and exciting workplace;
+We are committed to maximizing your potential and ensuring your professional development;
+Interaction with local and international teams;
+A 100% flexible environment and work/life balance;
+A friendly atmosphere;
+A friendly and collaborative work environment, where authenticity and well-being are a priority.
+At Avanquest, we value and support diversity. We are committed to providing an environment that promotes inclusion and respect for all. We, therefore, encourage women, people of all gender identities, aboriginal people, and people with disabilities to apply for our positions.
+
+Only successful candidates will be contacted.
+
+
+Middle C++ Engineer
+ Львів, Івано-Франківськ, віддалено
+We are looking for a Middle С++ Developer to manage the software development life cycle, from planning and prioritizing to testing and release.
+
+If you are a curious, motivated candidate with an agile mindset who stays up-to-date on the latest software, tools, and technologies, we’d like to meet you.
+
+About the Client
+
+An industry-leading multinational corporation in the healthcare technology sector is dedicated to the advancement of patient monitoring solutions. With a steadfast commitment to privacy and confidentiality, this renowned company designs and manufactures state-of-the-art patient monitoring systems used extensively in medical facilities worldwide. Their innovative devices are engineered with precision and equipped with cutting-edge features to ensure optimal patient care and medical accuracy. Focused on elevating healthcare standards, this company remains at the forefront of technological innovation, continually striving to enhance patient outcomes and streamline medical workflows.
+
+Technical Stack:
+
+Programming languages: С++98, C++11, C++14, Python.
+Compilers: GCC, clang
+Build tools: CMake, Make.
+Tests: GTest
+Protocols: MQTT, AMQP, HTTP, WebSockets.
+Docker.
+SystemD, OpenSSL, JSON, Protobuf, gRPC
+VSCode IDE, Dev Containers, git, gdb
+Embedded Linux, Yocto build tool
+Responsibilities:
+
+Designing, creating, and implementing C++ applications and libraries.
+Determining application functions and building objectives with the team.
+Ensuring that written code falls in line with the project objectives.
+Problem solving with other team members in the project.
+Identifying and resolving immediate and potential issues with applications.
+Participating in group meetings to discuss projects and objectives.
+Assisting other developers with troubleshooting, debugging, and coding.
+Meeting deadlines on fast-paced deliverables.
+Qualification and skill set:
+
+5+ years of experience in IT industry (software development);
+3+ years of experience in C++ software code, debugs, troubleshoots, and resolves software and hardware compatibility and operability issues
+Use data structures, software engineering, OOD, C++ programing techniques and algorithms to write, debug and test code
+Knowledge of Linux/Unix platforms and experience in software development for these platforms
+Exceptional problem-solving and analytical abilities.
+Ability to work with other developers and assist junior team members.
+Experience with the CI/CD and Docker containerization.
+Experience of working with frameworks and automated testing instruments (GTest, Pytest).
+Understanding of processes and methodologies of agile software development.
+English Upper-Intermediate level and above.
+Would be a plus:
+
+Awareness of C++17 and C++20
+Familiarity with libwebsockets (libwebsockets.org)
+Knowledge of QEMU
+Experience in development for embedded Linux platforms
+Degree in computer science, coding, or a related field
+Why join VITech?
+
+Work in an agile team with a high-quality code environment and use modern technologies to deliver software that provides value;
+Interesting projects with a focus on the Healthcare industry, where communication with clients is a part of daily work;
+Professional growth opportunities with our corporate development programs;
+People-oriented corporate culture where your individuality is appreciated.
+We thoughtfully create and adapt benefits to improve your life. Unlimited free treats and coffee are not the main things we can offer. We strive to simplify your life and we take care of your mental and physical health.
+
+C/C++ developer
+ Київ
+Ми створюємо високотехнологічні вимірювальні програмно-апаратні комплекси обробки даних.
+Шукаємо C/C++ developer, для розробки складних компонентів математичної обробки цифрових сигналів.
+
+Вакансія передбачає:
+— реалізація та оптимізація алгоритмів для С та С++ написаних на мові MATLAB
+— пошук та перевірка оптимальних алгоритмів обробки сигналів, розробка власних алгоритмів
+
+Технології, які ми використовуємо: С++, Matlab
+У команді: на проекті 1 математик, 2 С++ розробника.
+Взаємодія з командами інших проектах (FPGA, C++ розробники, Java android розробники, математик)
+
+Основні вимоги:
+— вища технічна освіта за спеціальностями «Інформаційні системи», «Прикладна математика», «Радіотехніка» або суміжними
+— 3+ роки комерційного досвіду С та С++
+— знання алгоритмів лінійного та динамічного програмування
+— володіння основами вищої математики та матаналізу
+— володіння основами мови MATLAB
+— володіння англійською мовою на рівні читання технічної документації
+
+Буде перевагою:
+— знання Python (розуміння написаного коду)
+— знання основ радіотехніки, радіолокації, цифрової передачі даних (модуляція, фільтрація, кодування)
+— знання принципів цифрової обробки сигналів
+— базові знання FPGA
+— навички роботи з вимірювальним обладнанням
+
+Ми пропонуємо:
+— робота у світлому, комфортному і тихому офісі (10 хв від м. Почайна)
+— гнучкий графік роботи, можливість починати з 9 до 11 і працювати до 18:00 — 20:00 з перервою на обід
+— 24-денна оплачувана відпустка, лікарняні
+— конкурентна заробітна плата з урахуванням ваших очікувань та щорічний перегляд з оглядом результатів роботи
+— курси англійської мови
+— щорічний Check-Up здоров’я за рахунок компанії
+— оплата та організація обідів
+— в офісі завжди є смачний чай, кава, свіжі фрукти та солодощі
+— співпраця ФОП, повне бухгалтерське обслуговування та компенсація податків
+
+
+Senior 3D Graphics Engineer / Rendering Programmer/ Graphics Programmer
+ Київ, віддалено
+Company Description
+Ubisoft’s 19,000 professionals, working across more than 30 locations around the world, are bound by a common mission to enrich players’ lives with original and memorable gaming experiences. Their dedication and talent have brought to life many acclaimed franchises such as Assassin’s Creed, Far Cry, Watch Dogs, Just Dance, Rainbow Six, and many more to come. Ubisoft is an equal opportunity company that believes diverse backgrounds and perspectives are key to creating worlds where both players and community can thrive and express themselves. With our Ubisoft Corporate Social Responsibility team, we work with and for our players, helping to create original and memorable gaming experiences that go beyond entertainment to enrich lives. Beside this, at Ubisoft, we are committed to making our own active contribution to a better environment through green initiatives and global carbon neutrality. If you are excited about solving game-changing challenges, cutting-edge technologies, pushing the boundaries of entertainment and Play Green, we invite you to join our journey and help us create the unknown.
+
+Read more about our commitment to social impact here. 
+
+Job Description
+As a 3D Graphics programmer you will work on rendering tech that drives Ubisoft’s graphics engines.
+
+Qualifications
+Responsibilities:
+
+Design, implement, upgrade and maintain run-time rendering and graphics pipeline code for our games;
+Own, upgrade and maintain our rendering tools, pipeline and related code in our proprietary game engine;
+Write clear, maintainable, portable, C++ code;
+Profile game performance to assess and find rendering bottlenecks and improve overall performance;
+Work together with other international Ubisoft studios;
+Collaborate with GPU and console vendors.
+Requirements:
+
+Strong knowledge of at least one graphics API (DiretX11-12/Vulkan/OpenGL4+, etc);
+Knowledge of modern rendering techniques;
+Advanced level of C++ and OOP\OOD;
+Experience with multithreading and memory management;
+Strong knowledge of 3D math;
+Understanding of GPU architecture and CPU/GPU communication;
+Intermediate level of English.
+Desirable(optional):
+
+Pet projects;
+Experience with various game engines;
+Shipped game project.
+JOIN OUR TEAM AND THRIVE WITH THESE PERKS:
+
+Work-Life Balance:
+
+· Generous Time Off: Enjoy 20 working days of annual vacation along with additional time-off for volunteering, maternity/paternity and special occasions. Need an extended break? You can also take a sabbatical or long-term leave.
+
+· Flexible Work Arrangements: Embrace a hybrid work setup that allows for flexibility and work-life balance.
+
+Professional Growth:
+
+· Training & Development: Access training programs tailored to your professional growth and advance by attending English and French language classes. Explore development opportunities to expand your skills and boost your career in the dedicated Ubisoft learning platform and by accessing the global knowledge base.
+
+· Career development plan: Define your career goals and get a clear picture of your growth plan and opportunities.
+
+· Leadership program: Participate internal program that covers all key managerial skills and competencies and maximum adjusted to Ubisoft business reality: focus on applying theory to practice.
+
+Workplace Comfort & Tech Support:
+
+· Contemporary Office Environment: Work in a modern office space equipped with sports facilities, Fun Hub and shelter.
+
+· IT Support: Work with cutting-edge technologies and recent hardware supported by our IT team, ensuring smooth operation on your machine(s) and comfortable work arrangements.
+
+· Home Office Setup: Ensure your comfort and productivity with essential home setups provided while WFH, including peripherals and ergonomic chairs.
+
+Health & Wellness:
+
+· Comprehensive Healthcare: From premium health insurance that includes gym memberships to psychological assistance programs. We prioritize your well-being and ensure you have the best care.
+
+· Wellness Initiatives: Engage in mindfulness sessions and participate in a variety of well-being activities. Free bicycles are also available for convenient commuting and promoting a healthy lifestyle.
+
+· Snacks Options: Start your day right with breakfast options provided in the office, including dietary accommodations to suit your needs. Additionally, we offer a selection of healthy snack options in the office to support your overall wellness.
+
+Community Engagement:
+
+· Social Responsibility Initiatives: Participate in our social responsibility initiatives, contributing to meaningful change in our communities and fostering a sense of purpose beyond the workplace. Ubisoft grants you additional time-off to contribute to a good cause.
+
+Fun & Relaxation:
+
+· Ubisoft Connect: We set you up with a full list of Ubisoft titles added directly to your Ubisoft Connect account on PC and keep growing your collection with every new release.
+
+· Office Celebrations: Join in various office celebrations, game release festivities, run marathons, after-work events, fostering a vibrant and inclusive workplace culture.
+
+· Recreational Breaks: Take refreshing breaks with recreational activities like table tennis, board games, and video games available in our vibrant office environment. Dive into our Ubi-library stocked with games, board games, and books for leisure and relaxation during your rests.
+
+By offering these comprehensive benefits, we strive to create an environment where employees can thrive both personally and professionally, supported by a range of opportunities for well-being, growth, and community engagement.
+
+Ubisoft is committed to enriching players’ lives with original and memorable gaming experience. We create worlds where people can express themselves, explore and discover new possibilities.
+
+Are you looking to work with enthusiastic experts who are tackling game-changing challenges in entertainment and beyond? At Ubisoft, we offer an open environment where bright ideas are given a chance to shine and everyone is eager to share knowledge.
+
+Challenge accepted?
+
+
+С/C++ Engineer
+ Київ, Львів, Одеса, Краків (Польща), віддалено
+We are looking for a С/С++ Software Engineer to join PLVision. This position requires a candidate with 2+ years of experience in the development of Embedded Applications, C/C++ programming and knowledge of Python.
+
+In this role you will contribute to a growing project for our customer that provides innovative network connectivity solutions for 5G, 4G and industrial networks. PLVision helps them to ensure successful business results while enabling SONiC on the client’s hardware.
+
+At PLVison you will become a part of a highly experienced team that works with the latest technologies. You will collaborate with global technology leaders within open-source communities and get valuable hands-on experience in building reliable networking products. Join us, work on the meaningful project that drives technological advancement and secure your professional future!
+
+About PLVision
+
+We are a software product development company specializing in computer networking and embedded systems. PLVision has offices in Krakow, Poland, and in Lviv, Ukraine. Founded in 2007, the company helps networking industry leaders and ambitious startups in the U.S., Israel, and the EU countries to launch innovative products.
+
+Vacancy responsibilities:
+
+• Platform part integration
+• SONiC (Software for Open Networking in the Cloud) features design/implementation
+• SAI (Switch Abstraction Interface) design/implementation
+• Documentation and community agreements design
+• Feature implementation and verification
+• Build system maintenance
+
+Vacancy requirements:
+
+• Bachelor’s Degree in Computer Science or Software/Computer Engineering
+• 2+ years of commercial experience in Embedded Application Development
+• Good knowledge of C/C++
+• Experience with Linux (as the main development operating system)
+• Knowledge of scripting languages: Bash and Python
+• Good troubleshooting and debugging skills
+• Good communication skills and the ability to work in a team
+• Customer orientation and flexibility
+• Knowledge of technical English at Intermediate level and higher
+
+Vacancy plus options:
+
+• Knowledge/experience in networking (Routing, ALC, QoS)
+• Knowledge/experience in Linux kernel development
+• Knowledge/experience with Make
+• Knowledge/experience with Debian packages
+
+
+
+Senior C/C++ Software Engineer
+ Київ, Львів, Одеса, віддалено
+We are looking for an ambitious Senior C/C++ Software Engineer to join PLVision, a stable Ukrainian company with in-demand and future-proof specialization in computer networking. This role offers you the chance to advance your career by becoming an integral part of PLVision’s progressive Architecture Office. During your ramp-up period, our dedicated experienced mentor will help you boost your expertise in networking technologies and enable your successful start in the new tech domain.
+
+This role requires a candidate with 5+ years of commercial experience in Software Engineering and fundamental knowledge of C/C ++ and Linux OS. The responsibilities include cross-functional collaboration with the company’s experts on pre-sales activities and launching new projects for networking industry leaders and disruptive startups.
+
+At PLVison, you will get valuable hands-on experience with the latest technologies and non-trivial tasks in software product development. You will work directly with the customer as a member of the team and collaborate with global technology leaders within open-source communities.
+
+About PLVision
+
+We are a software product development company specializing in computer networking and embedded systems. PLVision has offices in Krakow, Poland, and in Ukraine: Lviv, Odesa, Kyiv, and Kharkiv (currently relocated). Founded in 2007, the company helps networking industry leaders and ambitious startups in the U.S., Israel, and the EU countries to launch innovative products.
+
+Vacancy responsibilities:
+— Develop software and run testing to enable high performance of Switch Abstraction Interface (SAI) and/or Software for Open Networking in the Cloud (SONiC) for new platforms
+— Create architecture and design documentation
+— Maintain design documentation to assist in software modification
+— Ensure Switch Abstraction Interface (SAI) and/or Software for Open Networking in the Cloud (SONiC) features are implemented and documented according to the requirements
+— Work closely with the test team to give them a development perspective
+— Establish test metrics and mentor team members while ensuring that all functionality is implemented on time
+
+Vacancy requirements:
+5+ years of commercial experience in Software Engineering
+Perfect knowledge of C or C++
+In-depth Linux OS knowledge
+Understanding of networking protocols (Layer 2 or Layer 3 networking protocols implementation, TCP sockets programming)
+Knowledge of technical English at the Intermediate level and higher
+
+Vacancy plus options:
+• Experience with SAI/SONiC implementation and integration;
+• Experience with Linux networking;
+• Experience with virtualization/containerization technologies;
+• Understanding of Continuous Integration (CI)/Continuous Delivery (CD) processes.
+
+
+
+С/C++ Engineer (Computer Networking Program)
+ Київ, Харків, Львів, Одеса
+Необхідні навички
+• Bachelor’s Degree in Computer Science or Software/Computer Engineering
+• 2+ years of commercial experience in Embedded Application Development
+• Good knowledge of C/C++
+• Experience with Linux (as main development operating system)
+• Knowledge of scripting languages: Bash and Python
+• Good troubleshooting and debugging skills
+• Good communication skills and ability to work in a team
+• Customer orientation and flexibility
+• Knowledge of technical English at Intermediate level and higher
+
+Буде плюсом
+• Knowledge of Ansible
+• Knowledge of Jenkins
+• Knowledge of Gerrit
+• Knowledge of networking (Routing, ALC, QoS)
+
+Обов’язки
+• Platform part integration
+• Fixing integration with new features
+• Minimal bug fixing in existing SAI implementation — mainly its maintenance
+• Documentation and community agreements design
+• Feature implementation and verification
+
+Про проєкт
+We invite С/C++ Engineers to apply for PLVision’s Computer Networking Education Program. Our intensive 5-week online training will equip you with the practical knowledge needed to develop innovative products and networking solutions based on SONiC (Software for Open Networking in the Cloud) — the world’s most popular open-source network operating system. Upon successful completion, you will join one of our growing projects and get a significant welcome bonus.
+
+PLVision’s in-demand specialization in computer networking allows us to expand existing projects and launch new ones. This ensures you will have a long-term, steady job in a collaborative and rewarding environment. Join us, get full support from our experienced team and unleash your full potential.
+
+About PLVision
+We are a software product development company specializing in computer networking and embedded systems. PLVision has offices in Krakow, Poland, and in Lviv, Ukraine. Founded in 2007, the company helps networking industry leaders and ambitious startups in the U.S., Israel, and the EU countries to launch innovative products.
+
+
+
+Junior Software Developer (C++)
+ Київ, Львів, Івано-Франківськ, Тернопіль, Ужгород
+ELEKS Software Engineering and Development Office is looking for a Junior Software Developer (C++) to join our team in Lviv, Kyiv, Ternopil, Ivano-Frankivsk, Chernivtsi, Zhytomyr, Rivne, Lutsk.
+
+ABOUT CLIENT
+Our customer is one of the biggest financial institutions in the USA.
+
+ABOUT PROJECT
+We create software for accounting and data management solutions, performance, insurance, risk management, etc.
+
+REQUIREMENTS
+
+1.5+ years of experience with C++
+At least an Intermediate Strong Level of English
+Clear communication skills & responsible attitude to work
+Possibility for on-site with the client abroad
+RESPONSIBILITIES
+Develop solutions and algorithms according to technical specifications or other requirements documentation
+Use standard algorithms in the applicable cases
+Write program code according to the defined application architecture
+Structure and format source code, comment and mark up the code, as well as name variables, functions, classes, data structures, and files according to the company conventions and industry best practices
+Track changes, compare source code in the defined version control system
+Commit changes according to version control rules
+Perform analysis, verification, and debugging of the software code at the level of application units.
+Detect defects, apply debugging methods and techniques, correctly interpret bug reports, as well as apply modern compilers, debuggers, and program code optimizers
+Agree task deadlines with Project Manager or Technical Leader
+Please submit your CV here:
+jobs.lever.co/...​ied&lever-source[]=dou.ua
+
+What will you get with ELEKS
+Close cooperation with a customer
+Challenging tasks
+Competence development
+Ability to influence project technologies
+Projects from scratch
+Team of professionals
+Dynamic environment with a low level of bureaucracy
+ABOUT ELEKS
+ELEKS is a custom software development company. We deliver value to our clients, thanks to our expertise and experience gained from working as a software innovation partner since 1991.
+Our 2000+ professionals located in the Delivery Centers across Eastern Europe and sales offices in Europe and North America, provide our clients with a full range of software engineering services. These include product development, QA, R&D, design, technology consulting and dedicated teams.
+
+
+
+C++ Software Engineer (Qt/QML)"
+ Київ
+Необхідні навички та знання:
+
+◦ Досвід C++ 3 років (C++11/C++14)
+
+◦ Досвід роботи з Qt/QML framework для розробки крос-платформ Desktop додатків
+
+◦ Розуміти принципи роботи процесів, потоків та асинхронної обробки
+
+◦ Вміти та писати модульні/інтеграційні тести
+
+◦ Вільне володіння git, cmake
+
+◦ Значення linux/posix-сумісних систем, знання bash, розуміння принципів роботи ядра linux
+
+Буде плюсом:
+
+◦ Досвід роботи з embedded системами
+
+◦ Практичний досвід проектування та розробки великих систем
+
+◦ Досвід роботи з потоковим відео
+
+◦ Практичний досвід використання та інтеграції з технологіями з відкритим вихідним кодом
+
+◦ Орієнтування в опенсорс бібліотеках: GStreamer, OpenCV
+
+◦ Досвід у роботі з протоколами передачі сигналів та потокової передачі даних (RTSP)
+
+◦ Знання та розуміння протоколу та стеку RTP/RTCP
+
+◦ Розуміння внутрішнього пристрою форматів відеокодеків HEVC, H.264
+
+Завдання:
+
+◦ Спільно з командою продовжувати роботу над новим продуктом існуючого продукту
+
+◦ Перенос та портування Desktop догадку на операційну систему Linux
+
+◦ Налаштування ОС Linux під використання без графічної оболонки
+
+◦ Написання та покриття існуючого коду тестами
+
+◦ Підтримка хорошої технічної культури з тестами та CD
+
+
+
+Senior Software Engineer (MAC C++)
+ Київ, Львів, віддалено
+Who we need
+
+We are looking for a talented Senior Software Engineer (MAC C++) with 7+ years of programming experience to build a lot from scratch. This is a full-time, permanent position in Lviv, Kyiv or remote.
+
+Become an integral member of our client, which oversees several innovative SaaS services, including Remote Access and Secure Web Sessions.
+
+Must have
+Requirements:
+
+• A Software Engineer with 7+ years experience of C++ and SWIFT development on macOS
+• Strong knowledge in Apple APIs and Frameworks, especially system or POSIX layer
+• Knowledge in POSIX compliant systems such as Linux or BSD (administration and development)
+• Proven experience in multi-threaded applications, including Grand Central Dispatch technology
+• Proven participation in development of commercial off-the-shelf large-scale software products
+• Understanding of deployment methodologies for Mac applications
+• Familiarity with Python and JavaScript
+• Passionate about code design, high-quality code and code reviews, optimizing, and challenging the status quo
+• Eager to own and maintain code and push it at the highest quality and security level, including UT and automation tests
+• Capable and courageous enough to deep dive into complex areas in the system, analyse them, suggest solutions, and make necessary changes
+• Fluent English
+
+Will be a plus
+
+• Experience with Chromium or Chromium-based projects
+• Familiarity with other programming/scripting languages
+• BSc/MSc degree in Computer Science or a related field
+• Experience with security standards and understanding of security best practices
+• Experience working with Windows, and Linux/Unix Operating Systems
+• Experienced with modern development and CI/CD tools, e.g. GitHub, Jenkins, Artifcatory, etc.
+• Extensive experience with source code branching, merging, and release methodologies
+
+About Project
+
+Customer
+
+Our client is the worldwide frontrunner in identity security. By emphasizing intelligent privilege controls, they deliver the most extensive security solutions for any identity within business applications, distributed workforces, hybrid cloud environments, and throughout the entire DevOps lifecycle.
+
+Stage
+
+This is a growing project
+
+Work Schedule
+
+Full-time working day in our Lviv or Kyiv office (flexible hours) or full-time remote
+
+Interview Stages
+
+1st stage — call with Recruiter
+
+2nd stage — technical interview
+
+
+
+R&D Team Leader (Mac C++)
+ Київ
+Who we need
+
+We are looking for a talented R&D Team Leader (Mac C++) with 4+ years of programming experience to build a lot from scratch. This is a full-time, permanent position in Lviv, Kyiv or remote.
+
+Responsibilities:
+
+Delivering valuable and high-quality outcomes for our customers promptly
+Fostering the professional growth of team members
+Continuously maintaining and updating the code through active involvement
+Collaborating closely with architects, product owners, and other teams
+Demonstrating hands-on leadership to establish technical authority within your team
+Overseeing the overall development, code quality, and productivity of the team
+Must have
+Requirements
+
+4+ years of hands-on experience in software development
+2+ years of experience as a team leader, leading at least 3 developers
+Proven experience in multi-threaded applications
+Proven participation in the development of commercial off-the-shelf large-scale software products
+Understanding of development, CI/CD, and deployment tools and methodologies
+Familiarity with C++, Python, SWIFT, and JavaScript
+Fluent English
+Will be a plus
+
+Experience with Chromium or Chromium-based projects
+Experience working with macOS and Windows
+Familiarity with other programming/scripting languages
+BSc/MSc degree in Computer Science or a related field
+Experience with security standards and understanding of security best practices
+Extensive experience with source code branching, merging, and release methodologies
+About Project
+
+Customer
+
+Our client is the worldwide frontrunner in identity security. By emphasizing intelligent privilege controls, they deliver the most extensive security solutions for any identity within business applications, distributed workforces, hybrid cloud environments, and throughout the entire DevOps lifecycle.
+
+Stage
+
+Development from scratch.
+
+Work Schedule
+
+Full-time working day in our Lviv or Kyiv office (flexible hours) or full-time remote
+
+Interview Stages
+
+1st stage — call with Recruiter
+
+2nd stage — technical interview
+
+
+
+Middle C++ Software Engineer
+ Київ, віддалено
+Ми шукаємо досвідченого Software Engineer’а для роботи з відеопотоком та сигналами від сенсорів. Основні завдання включають розробку пайплайнів системи обробки зображень та контролю пристроями, а також інтеграцію моделей комп’ютерного зору (CV) та машинного навчання (ML). Якщо ви маєте глибокі знання в цій сфері та бажаєте працювати над інноваційними проектами, ми будемо раді бачити вас у нашій команді.
+
+Основні обов’язки
+
+• Розробка та оптимізація пайплайнів для обробки відеопотоків та даних з лідарів.
+• Інтеграція моделей комп’ютерного зору (CV) та машинного навчання (ML) у систему. • Робота з апаратними компонентами для забезпечення контролю пристроїв.
+• Тестування та налагодження розроблених рішень.
+• Співпраця з командою для інтеграції та тестування розроблених рішень.
+• Забезпечення високої продуктивності та надійності системи.
+
+Вимоги
+
+• Досвід роботи з відеопотоками та лідаром.
+• Глибокі знання мов програмування C/C++ та Python.
+• Досвід розробки та оптимізації пайплайнів обробки зображень.
+• Знання та досвід роботи з моделями комп’ютерного зору (CV) та машинного навчання (ML).
+• Досвід роботи з апаратними компонентами та контролем пристроїв.
+• Вміння працювати в команді, комунікабельність та відповідальність.
+
+
+Буде перевагою
+
+• Досвід роботи з бібліотеками OpenCV, TensorFlow, PyTorch.
+• Знання GStreamer для роботи з відеопотоками.
+• Досвід роботи з ROS (Robot Operating System).
+• Знання протоколів передачі даних та досвід їх налаштування (наприклад, TCP/IP, UART, I2C, SPI).
+
+Ми пропонуємо
+
+Можливість бути залученим в команду яка виробляє найкращу в своєму класі бойову машину
+Можливість бути залученим в команду, яка не боїться ставити надзвичайні цілі та досягати їх
+Участь у розробці передових технологій, що змінюють світ.
+Можливість працювати над продуктом, з ціллю вплинути на хід війни
+Класний офісі в центрі Києва
+«ІТ-підхід» до організації роботи, воркфлову та робочого простору
+Гнучкий графік роботи
+
+
+
+Senior C++/C# Windows Developer
+ Europe, віддалено
+🚀 About the Client:
+Our client is a leading company specializing in innovative commercial software solutions that simplify and improve the management of critical enterprise data.
+
+📍 Location:
+Remote in EU or in Slovakia
+
+🎯 Job Description:
+We are seeking an experienced C++/C# Windows Developer to join our client’s agile development team. You will play a key role in designing, developing, and implementing software solutions, working in a highly agile, SCRUM environment with the latest technologies.
+
+💪 Key Responsibilities:
+Design, estimate, code, test, document, and maintain product components within an Agile lifecycle.
+Collaborate with team members to produce high-quality code using best practices.
+Participate in all phases of the software development lifecycle.
+Work closely with clients to understand their requirements and deliver solutions.
+📚 Required Skills:
+Bachelor’s degree in Computer Science or equivalent experience.
+Minimum of 5 years of experience in C++, C#, and .NET development.
+Strong object-oriented design skills using S.O.L.I.D principles.
+Proficiency with Microsoft operating systems (Windows Server 2016/2019/2022) and Active Directory.
+Experience with Windows APIs, libraries, and virtualization technologies (VMWare, Hyper-V, Azure VMs).
+Strong understanding of data structures, algorithms, and computational complexity.
+Experience in a DevOps environment using tools like Azure DevOps.
+Understanding of network protocols (TCP/IP, UDP, HTTP).
+Excellent debugging, troubleshooting, and communication skills.
+Ability to write quality code, including unit testing, mocking, automation, integration testing, and continuous integration.
+🥳 We Offer:
+20 vacation days, plus additional sick days.
+Conference/training compensation based on your Personal Development Plan.
+Flexible remote work arrangements.
+Transparent processes and quick decision-making.
+English courses.
+⏰ Start Date:
+As soon as possible
+
+🔗 Hiring Process:
+— Recruitment interview — Tech intro call — Call with PM -Technical interview with client — Offer 🙂 (around 2 weeks for all process, usually it takes 4-5 business days)
+
+The entire hiring process typically takes around 2 weeks, usually completed within 4-5 business days.
+
+
+
+
+Junior C++ Engineer
+ віддалено
+Navigate smartly and smoothly! With superb engineering, Intellias has been delivering logistics software development services at scale for global transportation platform providers, eMobility innovators, and large vehicle fleets. Join in and embrace the mission of creating innovative products!
+
+What project we have for you
+Our customer is one of the key players in the world of maps and navigation platform.
+
+Our team, which is part of the customer’s Routing Center of Excellence, is an advanced engineering team that delivers core routing functionality. We constantly improve routing algorithms and services based on the new fast and flexible map format. We care about the software design, elegant algorithms, performance, and scalability of our solutions. We use modern C++ 17 for our core algorithms.
+
+As part of the team, you’ll have the opportunity to work on one of the most versatile route calculation engines, capable of both running on low-end devices and taking advantage of high-end cloud computing clusters. You’ll contribute to a wide range of features impacting routing graph preparation, core routing algorithms, maneuver/instruction generation, and road traffic updates. You will help us create a new generation of highly performant and customizable big-scale routing solutions.
+
+If you want to be on the technology edge and solve real-world logistics and vehicle routing problems — apply!
+
+Technology Stack :
+
+C++ 17.
+CI(Jenkins), Gerrit/Git, GitLab.
+Debugging tools gdb, valgrind etc.
+MapReduce, Scala (for pipeline creation).
+Rust.
+gtest and Robot Framework for tests.
+What you will do
+Support of existing products in the pre-production and post-production phase.
+Develop new features.
+Design interfaces and implementation to support reusability, testability, and modularity.
+Help to integrate our solution with other parts of the Navigation platform.
+Ensure the features are integrated into the target platforms in a way that meets the expectations of the customer.
+Failure investigation.
+Regular communication with the remote team.
+Reporting on the results of your work.
+What you need for this
+1+ year of C++ software development.
+Passionate about programming; strong focus on performance aspects.
+Self-motivated, well-organized, detail-oriented, and a very strong team player.
+Good communication skills in English, both written and spoken.
+Experience working with embedded systems and hardware.
+Excellent analytical, algorithmic, and optimization skills.
+Understanding of Agile methodologies and engineering practices.
+What it’s like to work at Intellias
+At Intellias, where technology takes center stage, people always come before processes. We’re dedicated to cultivating a tech-savvy environment that empowers individuals to unlock their true potential and achieve extraordinary results. Our customized benefits not only prioritize your well-being but also charge your professional growth, making this opportunity an ideal match for tech enthusiasts like you.
+
+This position offers an excellent opportunity to begin a career in the Transportation and Mobility field, particularly for gaining experience with routing algorithms.
+
+Middle C++ Engineer
+ віддалено
+Radency у пошуках Middle C++ Engineer на американську Construction платформу.
+
+Проєкт:
+
+👉 Десктоп додаток для будівельних компаній, який допомагає будувати проекти, менеджити витрати матеріалів та устаткування в ході ремонтних робіт, формувати прорахунки, бюджети та вести трекінг проектів
+
+👉 Формат співпраці — remote
+
+Очікування від інженера:
+
+— 3+ років досвіду роботи зі C++
+— досвід із MS Visual Studio
+— досвід із cloud інфраструктурою (AWS EC2, EBS)
+
+
+Що пропонує Radency:
+
+✔️ Бюджети на навчання, здоровʼя та спорт — 750 $ на рік.
+✔️ 20 днів тайм оффу, 10 державних вихідних та необмежені сік ліви.
+✔️ Формат роботи remote-first.
+🇺🇦 Активно підтримуємо ЗСУ — станом на червень 2024 ми задонатили 13+ мільйонів гривень і не плануємо зупинятися.
+🇺🇦 Не працюємо з російськими і білоруськими замовниками та інженерами.
+
+
+
+DSP Engineer
+ Київ, Харків, за кордоном, віддалено
+Необхідні навички
+Key Responsibilities:
+• 1+years experience with DSP
+• DSP algorithm optimization for a low-level programming language (С, intrinsics, assembler)
+• Porting float-point to fixed-point implementation
+• Testing and verification of DSP solution in a simulator or emulator (on the board)
+
+Required Skills:
+• Strong C language skills
+• Pre-intermediate level of the English language (documentation, emailing and verbal communication)
+
+Required Knowledge:
+• DSP theory: Filters, FFT, division, sqrt, re-sampler, etc.
+• Approximation: log, exp, sin, cos, etc.
+• Linear Algebra
+
+Буде плюсом
+Will Be a Plus:
+• Practical knowledge of DSP platforms
+• С++, intrinsics, assembler languages
+• Eclipse
+• Batch files
+• MS Visual Studio
+• MS VS code
+• MATLAB: DSP System Toolbox, Linear Algebra
+• Python
+• GitHub
+• Shell
+• Audio files format
+• Linux (Ubuntu)
+
+Пропонуємо
+We offer:
+• Competitive compensation
+• Full accounting assistance and support
+• Regular annual vacation is 20 working days off
+• 100% paid sick leave upon provision of the relevant document(s)
+• Holidays are provided according to the residence country Law
+• Improvement of the English language knowledge with our teacher
+• Smart and useful presents for our employees and their kids
+• Great atmosphere, creative corporate parties, and true individual approach.
+
+Обов’язки
+Key Responsibilities:
+• DSP algorithm optimization for low-level programming language (С, intrinsics, assembler)
+• Porting float-point to fixed-point implementation
+• Testing and verification of DSP solution in a simulator or emulator (on the board)
+
+Про проєкт
+We are looking for a software engineer to work with different audio DSP algorithms, port them to fixed-point implementation, design test benches for project verification, communicate with customers and discuss solutions, design functions for a DSP library for float and fixed-point implementation.
+
+
+
+C for Unix Developer
+ за кордоном
+Необхідні навички
+Ми шукаємо програмістів, які можуть допомогти нам надати нашим клієнтам розширене багатофункціональне програмне забезпечення, яке відповідає потребам клієнтів щодо функціональності, безпеки та захисту. Ми розробляємо та підтримуємо набір рішень для управління кров’ю для одного зі світових лідерів систем управління лабораторною та трансфузійною медициною.
+
+Ви будете залучені до:
+• дослідження застарілого коду C, щоб зрозуміти, як він працює для вирішення проблем і знайти шляхи включення нових функцій;
+• розробка нових функцій;
+• ведення набору продуктів;
+• надання підтримки нашим клієнтам.
+
+Наші рішення засновані на наступних технологіях:
+• бізнес-логіка на простому C;
+• наш власний текстовий інтерфейс, перенесений на інтерфейс GUI та веб-інтерфейс;
+• Бази даних Oracle/dbVista;
+• Веб-сервіси C/C++ SOAP на основі інструментарію gSOAP.
+
+Основні вимоги:
+• Вища технічна освіта: ступінь бакалавра або вище;
+• Досвід роботи програмістом на C: від 2 років у середовищі з встановленими процедурами розробки;
+• Можливість читати та розуміти старий вихідний код C для пошуку помилок та інтеграції нових функцій;
+• Відмінні аналітичні здібності, комунікативні навички та вміння працювати самостійно, а також бути командним гравцем;
+• Відмінні навички усунення несправностей;
+• Відповідальність, націленість на результат, командність, уважність, здатність швидко навчатися;
+• Добре володіння англійською мовою (усна, письмова).
+
+Про проєкт
+ISD Ltd. is Ukrainian Software Development Company, that provides innovative and high quality software development solutions to our clients with substantial, hands on experience developing customized and integrated solutions for healthcare industry.
+
+
+
+
+Senior C++/Golang/Java Linux Networking Engineer
+ Київ, Вінниця, віддалено
+Perimeter 81, as part of Check Point, is a leading cybersecurity unicorn that is reshaping the way businesses connect their employees and resources in the modern digital era of cloud and remote work. Recognized as a Gartner Cool Vendor and Forrester New Wave Leader™, we have secured over $100M in funding from top-tier investors such as Insight Partners, B-Capital, and Toba Capital. With over 200 employees spread across offices in New York, Los Angeles, and Tel-Aviv, we offer a global and multicultural work environment. Serving more than 2,800 customers, including leading businesses of all sizes and industries, we are experiencing rapid growth.
+
+Join us and be part of a team that values innovation, collaboration, and excellence in cybersecurity!
+
+
+
+RESPONSIBILITIES
+— Design and develop secure, scalable applications on the Linux platform
+— Engineer sophisticated cloud network solutions
+— Investigate and prototype novel technologies
+— Maintain high-performing, scalable, and testable code
+— Engage in collaborative coding and peer reviewing
+— Interact with developers from different teams
+
+SKILLS
+— 5+ years of professional software engineering experience
+— 3+ years of experience with C++/Java/Golang development of networking applications
+— 5+ years of proven experience in networking:
+— experiencing protocols and packets in bare hands
+— in-depth knowledge of switching, routing, handshake protocols, encryption, tunneling, and data transportation
+— Confirmed skillset in architecture and design of distributed services
+— Verified proficiency with:
+— Linux-based systems
+— cloud environment
+— modern development and DevOps environments, tools, and practices
+— Nice to have experience with:
+— NoSQL databases
+— Hashicorp stack (Consul, Vault, Nomad)
+— Upper-Intermediate level of English
+
+WE OFFER
+— Work in a creative friendly environment using cutting-edge technologies
+— Work-life balance and flexible schedule
+— Competitive compensation with focus on your expectations; annual salary review
+— 24-day paid vacation and 100% paid sick leave
+— Financial support and legal support for individual entrepreneurs from our side
+— Professional, language and soft skills trainings
+— Health insurance coverage: individual and family, fitness plan
+
+
+
+C Engineer
+68 окрема єгерська бригада імені Олекси Довбуша запрошує кваліфікованого фахівця приєднатися до Збройних Сил України на посаду C Engineer. Ця роль передбачає відповідальність за розробку, впровадження та підтримку засобів зв’язку та інформаційних технологій для забезпечення безперебійного функціонування військових комунікацій
+
+Вимоги:
+
+Досвід роботи на позиції C Engineer від 1 року;
+Вища освіта. Спеціалізація в галузі інженерії зв’язку, інформаційних технологій чи суміжних областей;
+Знання мов програмування (наприклад, С++, Python) для розробки та модернізації програмного забезпечення;
+Досвід роботи з комутаторами, маршрутизаторами та іншим мережевим обладнанням;
+Глибоке розуміння алгоритмів та структур даних;
+Розуміння принципів та методів забезпечення інформаційної безпеки.
+Вміння працювати в команді та комунікативні навички;
+Відповідальність, орієнтованість на результат, аналітичне мислення.
+Обов’язки:
+
+Проектування та впровадження сучасних засобів зв’язку, включаючи технічне обладнання, програмне забезпечення та мережеві рішення;
+Забезпечення ефективної роботи інформаційних систем та технічних рішень для командного складу та підрозділів;
+Розробка та впровадження заходів щодо забезпечення конфіденційності, цілісності та доступності інформації у військовому середовищі.
+Аналіз, вдосконалення та оптимізація існуючих модулів;
+Тестування та налагодження програмного забезпечення;
+Підтримка та вдосконалення існуючих систем;
+Участь у технічних дебатах та вирішення складних задач;
+Взаємодія з розробниками та іншими співробітниками для досягнення поставлених цілей.
+Ми пропонуємо:
+
+гідну заробітну плату;
+повний соціальний пакет;
+безкоштовне медичне лікування;
+підйомну допомогу за переїзд на нове місце служби;
+грошову допомогу за укладання першого контракту;
+щорічну грошову допомогу для оздоровлення;
+статус учасника бойових дій.
+Якщо ви вирішили долучитись до росомах, спершу заповніть анкету на сайті cutt.ly/6w97bQ2Z
+
+Після чого з вами зв’яжеться представник, надасть всю потрібну інформацію та письмову згоду.
+
+
+
+C/C++ Developer
+ віддалено
+Looking for a Senior C++ Developer (fintech, Canada)
+Remote, full-time
+Working Schedule: 12.30-21.00 Kyiv time
+
+Requirements:
+
+5+ years of professional experience in programming designing, building, and maintaining efficient, reusable, and reliable C / C++ code
+Working in Windows environment is a must
+High level of understanding of Memory Management, Multi-Processing, and Code design
+Implement performance and quality modules
+Identify bottlenecks and bugs, and devise solutions to these problems
+Help maintain code quality, organization, and automatization
+Experience working with Visual Studio Pro, JetBrains Rider, or equivalent
+Experience working with distributed on/offshore teams
+Strong working knowledge of Jira for item creation/updates
+Ability to code crawl legacy code and trace dependencies between code modules
+Knows how sizeof() operator works.
+Knows how to write native unit tests in C/C++ using Visual Studio
+Familiar with old CRT functions and why they should be replaced with CRT_’s’ versions
+BitBucket
+Creation of thread-safe code through the use of C++ classes
+English: Upper-Intermediate
+Project: the team will remediate code vulnerabilities before the production release slated for January 2025.
+
+
+
+
+Senior Software Engineer (Dart, TypeScript, WASM)
+ віддалено $3000–7000
+We are not looking for the knowledge of any particular language or a framework; our ideal candidate will have no problems using our technology stack (Dart, Java, R, Python, Julia, C++, WASM, WebGL, JavaScript, TypeScript, etc.)
+
+Check out the video from our CEO, Andrew Skalkin, to learn about the company, product, and what it’s like to work here:
+youtu.be/AxiY2xhudwE.
+
+Responsibilities:
+● Develop clean, high-performance, well-documented, production-level code
+● Design, develop, and own creative solutions that go beyond current tools to deliver data-driven insights to scientific problems
+● Collaborate with world-class developers and scientists to work on complex problems
+● Identify and use emerging technologies such as WebGL or WASM (how about multithreaded C++ code running in the browser?)
+● Be proactive regarding platform evolvement, process improvements, etc.
+
+Requirements:
+● Obsession with developing elegant, high-performance code is a must
+● Strong fundamentals, including algorithms and data structures
+● Ability and willingness to learn new scientific domains
+● Expert knowledge in one or more of OOP languages like C++, Java, or Dart
+● Minimum 5 years of relevant experience
+● Ability to build elegant solutions from scratch, as well as to understand, maintain, and evolve complex codebases
+● Ability to efficiently contribute across the whole stack, including UI and backend
+
+Nice to have:
+● Scientific background (PhD is a plus)
+● Familiarity with R, Python, or Julia
+● Experience with high-performance computing, big data, cloud computing
+● DevOps, Kubernetes, scalable systems
+● Cheminformatics, bioinformatics, or clinical development experience
+● Machine learning and data science experience
+● Web development, modern frameworks, UI and UX
+
+We offer:
+● A chance to revolutionize the space of data analytics
+● Fully remote work
+● Zero bureaucracy, flexible working hours, unlimited vacations / PTO
+● Excellent growth opportunities in a highly dynamic, unique product company
+● Paid trainings and certifications
+● Competitive compensation.
+
+
+
+
+
+Senior C/C++ embedded developer (Security)
+ віддалено
+We are looking for an experienced Senior C/C++ embedded developer (Security) to join the team on one of the projects related to Infotainment & Automotive framework development for Automotive Customer.
+
+We expect you to have:
+
+Solid understanding of basic security concepts such as symmetric and asymmetric key algorithm, digest algorithm, signature computation
+Excellent knowledge of OpenSSL library (or other equivalent library), OpenSSL command line tool
+Exceptional expertise in firewalls, TLS client/server communication and X.509 certificates
+Profound understanding of mandatory access control mechanisms (e.g., SELinux, SMACK, etc.)
+Excellent knowledge of link-layer security mechanisms (e.g., MACsec)
+Superior comprehension in common security features such as secure boot, secure update, secure debug (JTAG), secure diagnostics, secure time, secure storage and wipe, and secure logging
+Excellent knowledge of DRM (e.g., Widevine, PlayReady, etc.) provisioning mechanisms
+Strong knowledge of build hardening mechanisms.
+Excellent knowledge of secure coding techniques
+Outstanding proficiency in threat modeling, fuzz testing, penetration testing, vulnerability management, and software bill-of-materials (SBOM)
+Excellent knowledge of various operating system hardening techniques
+Background in automotive domain will be a plus.
+What we offer:
+
+Stable, full-time and long-term employment
+Office or fully remote work, depending on your needs
+Career&professional development possibilities
+Healthy work-life balance and friendly, caring atmosphere
+Good benefit package
+Team and company events
+Fast and reasonable recruitment process
+
+
+
+Middle/Senior C++ Render Developer
+ Київ, Львів, Дніпро, за кордоном, віддалено
+Pingle Studio is looking for a powerful and dedicated C++ Render Developer to work on one of our most challenging projects.
+
+Pingle Game Studio is a team of professional game developers with over 16 years of industry experience. We aim to reach and maintain a leading position among video game developers worldwide.
+ATTENTION: Pingle Studio DOES NOT HIRE from the Russian Federation.
+
+
+Main responsibilities:
+Porting the game’s graphic engine to PS5;
+Optimizing and fixing shader performance on the target devices;
+GPU profiling on devices;
+Developing the new graphic functionality;
+Integrating VFX with the game logic events.
+Requirements:
+Knowledge of OpenGL or DirectX;
+Strong knowledge of C++;
+Experience in gamedev;
+Knowledge of consoles API: Xbox, PlayStation;
+Experience in creating shaders with HLSL or GLSL.
+Will be an advantage:
+Knowledge of Render API PS4/PS5 (GNM/AGC);
+Experience with porting and creating render engine on the console data.
+What we offer:
+Fast hiring and clear process;
+20 Paid Vacation Days;
+10 Paid Sick Leave Days;
+Regular salary reviews;
+Personal Development Plan for clear growing of skills;
+Accountant support and full taxes coverage;
+Comfortable Office Location and the ability to work remotely;
+Corporate English lessons;
+Advanced training: compensation of 50% of the cost of training courses, and video courses;
+Career Path and Mentorship Program;
+Referral internal Program: Active Program with Great Bonuses;
+Community of people who understand your game passion.
+
+
+
+Senior Software Developer (C++)
+ Київ, Львів, Івано-Франківськ, Тернопіль
+ELEKS Software Engineering and Development Office is looking for a Senior Software Developer (C++) to join our team in Poland and in Ukraine (Lviv, Kyiv, Ternopil, Ivano-Frankivsk, Chernivtsi, Zhytomyr, Rivne, Lutsk).
+
+ABOUT CLIENT
+Our customer is one of the biggest financial institutions in the USA.
+
+ABOUT PROJECT
+We create software for accounting and data management solutions, performance, insurance, risk management, etc.
+
+REQUIREMENTS
+
+4+ years of experience with C++
+Experience with the UI side of the software, WPF preferably
+At least an Intermediate Strong Level of English
+Clear communication skills & responsible attitude to work
+Self-sufficient developer who can mentor lower-level people
+Possibility for on-site with the client abroad
+RESPONSIBILITIES
+Develop solutions and algorithms according to technical specifications or other requirements documentation; use standard algorithms in the applicable cases
+Write program code according to the defined application architecture
+Possess knowledge of software development methodologies (Waterfall, Agile, etc.)
+Structure and format the source code, comment and mark up the code, as well as name variables, functions, classes, data structures, and files according to the company conventions and industry best practices
+Implement code refactoring and optimization methods. Post-refactoring and optimization result to the collective knowledge base as the best practices
+Modify existing software code and test its availability. Analyze software code compliance with readability and performance standards
+Use version control systems to track code optimization progress, as well as to merge or split code entities. Commit changes according to version control rules
+Perform analysis, verification, and debugging of the software code at the level of application units
+Develop procedures to test code availability, collect diagnostic data, generate test data sets with desired characteristics; examine the required software characteristics, etc
+Reproduce defects logged in the defect database, establish their causes, and modify code to eliminate defects
+Determine software product compliance with the technical requirements
+Collect and analyze results of software tests. Deliver correct interpretation of diagnostic data; analyze the significance of the obtained software characteristics; document test results. Assess software product availability
+Develop, document, and edit programming interfaces, software modules and components assembling procedures, software deployment and update procedures as well as data migration and transformation (conversion) procedures
+Assemble software modules and components into software products; connect software products to the external environment. Test availability of software product versions
+Analyze variants of software requirements implementation; evaluate their time consumption and workload. Conduct assessment and justification of the solutions recommended for software requirements implementation
+Approve technical requirements for software with stakeholders. Evaluate and justify terms of task completion
+Please submit your CV here:
+jobs.lever.co/...​ied&lever-source[]=dou.ua
+
+What will you get with ELEKS
+Close cooperation with a customer
+Challenging tasks
+Competence development
+Ability to influence project technologies
+Projects from scratch
+Team of professionals
+Dynamic environment with a low level of bureaucracy
+ABOUT ELEKS
+ELEKS is a custom software development company. We deliver value to our clients, thanks to our expertise and experience gained from working as a software innovation partner since 1991.
+Our 2000+ professionals located in the Delivery Centers across Eastern Europe and sales offices in Europe and North America, provide our clients with a full range of software engineering services. These include product development, QA, R&D, design, technology consulting and dedicated teams.
+
+
+
+Middle Software Developer (C++)
+ Київ, Львів, Івано-Франківськ, Тернопіль
+ELEKS Software Engineering and Development Office is looking for a Middle Software Developer (C++) to join our team in Poland and in Ukraine (Lviv, Kyiv, Ternopil, Ivano-Frankivsk, Chernivtsi, Zhytomyr, Rivne, Lutsk).
+
+ABOUT CLIENT
+Our customer is one of the biggest financial institutions in the USA.
+
+ABOUT PROJECT
+We create software for accounting and data management solutions, performance, insurance, risk management, etc.
+
+REQUIREMENTS
+
+3+ years of experience with C++
+At least an Intermediate Strong Level of English
+Clear communication skills & responsible attitude to work
+Possibility for on-site with the client abroad
+RESPONSIBILITIES
+Develop solutions and algorithms according to technical specifications or other requirements documentation; use standard algorithms in the applicable cases
+Write program code according to the defined application architecture
+Structure and format the source code, comment and mark up the code, as well as name variables, functions, classes, data structures, and files according to the company conventions and industry best practices
+Modify existing code and verify its functioning. Analyze code compliance with readability and performance standards
+Use version control systems to track code optimization progress and to merge or split program code entities. Commit changes according to version control rules
+Perform analysis, verification, and debugging of the software code at the level of application units
+Detect defects, apply debugging methods and techniques, correctly interpret bug reports, as well as apply modern compilers, debuggers, and program code optimizers
+Able to develop procedures for testing code availability, collecting diagnostic data, generating test data sets with necessary characteristics, identifying required software characteristics, etc.
+Reproduce defects logged in an issue tracking system, identify defect causes, and then modify code to eliminate defects
+Able to develop and document program interfaces, software module and component assembling procedures, software deployment and update procedures as well as data migration and transformation (conversion) procedures
+Estimate and set up task completion terms independently
+Evaluate and coordinate task deadlines with Technical Leader or Project Manager
+May have valid competence-related certifications
+Participate, both as a trainer or a trainee, in various learning programs outside the major project
+Please submit your CV here:
+jobs.lever.co/...​ied&lever-source[]=dou.ua
+
+What will you get with ELEKS
+Close cooperation with a customer
+Challenging tasks
+Competence development
+Ability to influence project technologies
+Projects from scratch
+Team of professionals
+Dynamic environment with a low level of bureaucracy
+ABOUT ELEKS
+ELEKS is a custom software development company. We deliver value to our clients, thanks to our expertise and experience gained from working as a software innovation partner since 1991.
+Our 2000+ professionals located in the Delivery Centers across Eastern Europe and sales offices in Europe and North America, provide our clients with a full range of software engineering services. These include product development, QA, R&D, design, technology consulting and dedicated teams.
+
+
+
+
+
+Middle C++ Developer (Lviv only)
+ Львів, Краків (Польща)
+Do you want to join us on an ambitious mission to secure the digital world?
+Keepit is looking for Linux-based C++ Developers to join our Engineering Team in Lviv, Ukraine.
+
+We are growing fast as a company and do our best to bring our SaaS cloud-based backup services to the global audience.
+
+Our platform is designed to provide customers with an immutable historical archive of their primary data in systems such as Microsoft 365, Google Workspace, Salesforce, Azure AD, Dynamics 365, and Zendesk. It aims to protect them against everything, starting from ransomware to simple accidents.
+
+The majority of our back-end components are written in clean, modern C++ using mainly purpose-built components and STL. Several components that deal with business processes and data mining are built using Common Lisp. Everything runs on Linux.
+
+Backing up billions of objects over foreign APIs using imperfect networks on systems with finite memory and making it all happen in as little time as possible, is no small feat.
+
+If you think solving hard problems is fun, we have strong indications that we will not run out of hard problems any time soon. Come join us for the fun!
+
+Central tasks as a C++ Developer with Keepit will include:
+
+Participate in the entire SDLC
+Take part in the development of new features
+Troubleshoot issues with Support and deliver fixes
+Work with Operations on performance improvements
+Identify and resolve shortcomings autonomously or with colleagues
+Required skills:
+
+Good modern C++ understanding
+Good understanding of TCP, HTTP, RESTful APIs, and XML
+Working and coding experience for Linux systems
+General SQL understanding
+A fair and transparent recruitment process
+
+During the recruitment process, you can expect the following stages:
+Recruitment interview, technical pre-screen, technical assignment, technical interview.
+
+You will be assessed according to the criteria below:
+
+Technical skills: We are looking for candidates who are proficient in C++ modern programming and possess all the necessary skills.
+Team collaboration: Attitude and ability to negotiate with the team regarding improvements to our product and structures are immensely important criteria for us.
+Language: English is a preferred language, and we expect you to be fluent in it, both written and spoken.
+Proactive approach: We look for proactive candidates who have the ability to lead ideas. We highly appreciate a spirit of innovation and responsibility.
+Terms and conditions
+
+Timing: As soon as possible
+
+The position: Full-time occupation based in Lviv.
+
+Salary: The compensation package is market-competitive and will be negotiated with the successful candidate.
+
+If you have any questions about the job or the recruitment process, please feel free to reach out to Khrystyna Kulyk at kma@keepit.com
+
+We offer:
+
+An exciting and challenging job in a successful business
+A unique working environment where your opinion matters 
+Full-time occupation and long-term employment 
+A hybrid and remote type of work is an option 
+20 working days paid vacation 
+Full coverage of the sick leaves
+Health Insurance 
+Home internet refund
+Full or partial coverage of professional training sessions, meetups, and conferences on request 
+Online and offline English courses for the employees, also with a native speaker,
+Cozy office in Lviv city centre (Lychakivska, 33a) with beverages, fruit, and cookies 
+Winter and summer parties, events, team-buildings
+We kindly ask you not to provide us with any sensitive categories of personal data when applying for a job with us.
+
+Sensitive categories of personal data include data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, data concerning health or data concerning your sexual orientation.
+
+When applying for the vacancy Keepit will process your personal data, and therefore we recommend that you also read our privacy policy, which describes our processing of personal data and your rights as a data subject.
+
+
+
+
+
+
+C++ Developer
+ за кордоном
+Необхідні навички
+• Вища технічна освіта: ступінь бакалавра або вище;
+• Хороші знання та досвід ООП є обов’язковими;
+• Добре знання шаблонів проектування є плюсом;
+• Добре знання та досвід роботи з STL;
+• Добре знання та досвід роботи з Servers and Databases: PostgreSQL, MySQL, MsSQL Operational Systems: Windows, Linux;
+• Обов’язковий досвід роботи з C++, досвід програмування з Win 32 GUI та за допомогою MFC (не менше 1,5-2 років);
+• Відповідальність, націленість на результат, командність, уважність, здатність швидко навчатися;
+• Добре володіння англійською мовою (усна, письмова).
+
+Про проєкт
+ISD Ltd. is Ukrainian Software Development Company, that provides innovative and high quality software development solutions to our clients with substantial, hands on experience developing customized and integrated solutions for healthcare industry.
+
+
+
+
+
+
+C++ Engineer for Our Products
+ Лісабон (Португалія)
+About the project
+Our commercial libraries for Java and .NET developers — JxBrowser and DotNetBrowser — allow you to use the full power of the Chromium engine in cross-platform desktop and server applications. We help bring the “web” to desktop applications.
+
+The cross-platform core of these libraries is written in C++. The core is tightly integrated with the Chromium engine and provides its API through which Java and .NET libraries can “communicate” with Chromium. Libraries communicate with the core via IPC, based on Protobuf for serialization/deserialization and Shared Memory/Sockets for transferring data between processes.
+
+Our libraries are used in commercial and internal projects by over a thousand companies with a high demand for the quality and stability of integrated solutions.
+
+Hundreds of open-source projects, from the ones supported by large companies to individual small projects, use our products.
+
+
+What you will do on this project
+
+Participate in the development of a cross-platform core (C++).
+Get to know how the various features and internal tools of Chromium work.
+Extend the core API and provide access to new Chromium features.
+Ensure compatibility with the latest versions of Chromium.
+Constantly improve your skills in designing, implementing, debugging, and documenting solutions.
+Knowledge and skills required
+3+years of experience in C++ development.
+Good understanding of TDD, OOP, and API design principles.
+Strong knowledge of Git or other DVCS.
+Responsibility, discipline, and ability to solve non-trivial problems.
+Will be a plus
+Experience with Python, Java, .NET, Objective-C.
+Creating your own product or C++ library.
+We offer you
+To become a part of a product team where results are № 1 priority.
+Processes with best engineering practices focused on quality.
+Flexible schedule and possibility of remote work.
+Long-term, stable project.
+Chance to participate in a bonus program based on product sales results.
+
+
+
+
+
+Embedded Engineer (Linux, C/C++, Networking)
+ Київ, віддалено
+We are looking for an Embedded Engineer to join our communications team.
+
+You should apply to this position if you are a true hacker and techno-optimist with a deep passion for robotics and a mission to help Ukraine. Join Ark to create applied tech that saves lives and moves our civilization forward.
+
+
+Core responsibilities:
+
+Develop and modify network components within the Linux kernel, maintain and enhance various L1, L2, L3 network protocols including TCP/IP, UDP, RTP, and services such as ARP, DNS, and NAT.
+Develop custom drivers and interfaces for hardware components.
+Design and implement features for other network layers.
+Work closely with hardware engineers to integrate software and hardware components.
+Qualifications:
+
+Proficiency in C/C++ for developing kernel modules and network applications.
+Comprehensive understanding of how the Linux networking stack operates.
+Experience with network interfaces, services, and their configurations, routing, and firewall.
+Extensive knowledge of network protocols like 802.11 (Wi-Fi), DHCP, and ARP.
+Proficiency with development tools such as GCC, Make, Smake, GDB, Python, Strace, ltrace, tcpdump, Wireshark, Netstat, and ss for network analysis and troubleshooting.
+Experience with network libraries such as libnl and tools like iwconfig and wpa_supplicant.
+Experience with projects involving Yocto Project, OpenWRT, and other custom Linux distributions.
+Experience with hardware interfaces and buses such as SPI, UART, I2C, LPC, and PCI.
+Good to have:
+
+Bachelor’s degree in Computer Science, Electrical Engineering, or a related field.
+Knowledge of SDR/SDN and Network Functions Virtualization (NFV).
+Contributions to open-source networking projects.
+Interview Process
+Recruiter screen
+Technical Interview
+Security Check
+Final Interview
+
+
+
+
+Senior C++ Developer (C2A)
+ віддалено
+About Us:
+
+Atto Trading, a dynamic quantitative trading firm leading in global high-frequency strategies, is looking for a Senior C++ Developer.
+
+We are expanding an international, diverse team, with experts in trading, statistics, engineering, and technology. Our disciplined approach combined with rapid market feedback allows us to quickly turn ideas into profit. Our environment of learning and collaboration allows us to solve some of the world’s hardest problems, together. As a small firm, we remain nimble and hold ourselves to the highest standards of integrity, ingenuity, and effort.
+
+Position Highlights:
+
+Contributing to the development of a competitive ultra-low latency trading platform.
+Active participation in the full feature development cycle of creating a new, successful working trading platform from prototype to deployment in production.
+Responsibilities:
+
+Design, implementation and deployment of components and services for large-scale trading systems
+Development of cross-platform C/C++ systems for high-frequency trading (HFT)
+Develop low-latency code using the latest C/C++ standard
+Implement interfaces with advanced networking hardware (FPGA, kernel-bypassing drivers)
+Research to improve platform performance
+Requirements:
+
+Experience working with C/C++ (3+ years).
+Knowledge of C++ standards (C++14, C++17, C++20 is a big advantage).
+Experience working with Python/Bash (1+ years).
+Hands-on experience with Linux.
+Knowledge and experience with Multithreading and IPC.
+Good understanding of Networking at the protocol level.
+Experience in profiling, optimizing latency and throughput, PGO.
+Understanding the principles of OOP, design patterns.
+Bachelor’s degree in Computer Science or Computer Engineering or related field.
+Effective communication skills and fluency in English.
+Close attention to detail, ability to work to very high standards, and critical mindset.
+The ability to manage multiple tasks in a fast-paced environment.
+Nice to have:
+
+Experience in developing high-performance/low-latency systems under Linux.
+Knowledge of operating systems, kernel-level understanding of device-level support in Linux.
+(Knowledge of Financial Instruments (Stocks, ETFs, Futures, Options).
+Genuine interest in finance, trading, and how modern electronic markets work.)
+What we Offer:
+
+Opportunity to develop professional competencies.
+Interesting and challenging tasks.
+Competitive rates of pay.
+Paid time off.
+Coverage of health insurance costs.
+Our motivation:
+
+We are a company committed to staying at the forefront of technology. Our team is passionate about continual learning and improvement. With no external investors or customers, we are the primary users of the products we create, giving you the opportunity to make a real impact on our company’s growth.
+
+Ready to advance your career? Join our innovative team and help shape the future of trading on a global scale. Apply now and let’s create the future together!
+
+
+Multimedia Developer C++
+ Київ, віддалено
+We are looking for a Multimedia Developer C++
+
+Responsibilities:
+Design and develop multimedia applications using QT and QML
+Work with GStreamer plug-in development and troubleshoot issues
+Implement and maintain live streaming, VOD, and video chat features
+Apply knowledge of adaptive streaming protocols such as SRT, WebRTC or DASH
+Optimize multimedia libraries and tools, focusing on FFmpeg and GStreamer
+Collaborate with cross-functional teams to define, design, and ship new features
+Ensure robustness, performance, and maintenance of applications
+Requirements:
+
+Bachelor’s degree in computer science or related field or equivalent experience
+Strong programming skills in C++ and proficiency with QT and QML
+Familiarity with at least one other programming language: C, Java, Python, Golang, or Rust (as a plus)
+Experience with multimedia tools and libraries like FFmpeg, GStreamer, and WebRTC
+Knowledge of media servers such as Nginx RTMP module, Licode, Kurento, Mediasoup, Janus
+Knowledge of cross-platform desktop development for macOS and Windows
+Experience with Linux is a plus
+Experience with adaptive streaming protocols (SRT, HLS, DASH)
+Proficient in using Git and familiar with Jira for project management
+Experience with AWS services is a plus
+Good verbal and writing English language communication skills
+Send your Resume / CV jobs@codeminders.com
+
+Codeminders do not do any business with Russia, Belarus or temporarily occupied Ukrainian territories (Crimea, Donbas, etc). We are not hiring engineers residing in these territories.
+Founded in California in 2004, Codeminders develops software for high-tech companies located predominantly in Silicon Valley. While we work on a broad range of products, our primary focus is on modern technologies such as AI, mobile, video conferencing, and cloud computing. You will have a chance to work on innovative software products envisioned in the heart of Silicon Valley. Many of our customers are startups, but some are established companies with millions of users. At Codeminders you will have a chance to work closely with world-class engineers from both the US and Ukraine and learn the newest technologies, tools, and development processes.
+
+Some of the benefits of working for Codeminders are:
+
+Salary based on individual qualifications, experience, and interview results
+Outstanding job stability with great opportunities for professional growth and advancement
+Western management practices
+Prospect of business travel to the US and Еurope
+Modern and comfortable office in Kyiv within walking distance from “Zoloti vorota” subway station
+Great benefits package , education, and fitness
+Reimbursement for moving expenses for out-of-town candidates
+Flexible working hours (including opportunities to periodically work from home)
+Performance bonuses and annual salary reviews
+Choice of desktop or a laptop as the main workstation
+Bicycle and car-friendly office
+Regular team-building events
